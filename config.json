@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercync",
+        "uuid": 15804423,
+        "checksum": "md7d3c"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
